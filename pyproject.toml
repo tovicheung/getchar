@@ -13,7 +13,7 @@ classifiers = [
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
 ]
-keywords = ["io", "readchar]
+keywords = ["io", "readchar"]
 
 [project.urls]
 Homepage = "https://github.com/tovicheung/getchar"
