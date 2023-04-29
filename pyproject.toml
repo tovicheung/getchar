@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "getchar"
+version = "1.0.0"
+description = "Non-blocking readchar"
+readme = "README.md"
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["io", "readchar]
+
+[project.urls]
+Homepage = "https://github.com/tovicheung/getchar"
