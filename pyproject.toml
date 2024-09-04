@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "getchar"
-version = "1.0.0"
+version = "2.0.0"
 description = "Non-blocking readchar"
 readme = "README.md"
 license = { file = "LICENSE" }
@@ -13,7 +13,7 @@ classifiers = [
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
 ]
-keywords = ["io", "readchar"]
+keywords = ["io", "readchar", "stdin"]
 
 [project.urls]
 Homepage = "https://github.com/tovicheung/getchar"

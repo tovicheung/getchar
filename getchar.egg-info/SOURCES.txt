@@ -1,5 +1,5 @@
+README.md
 pyproject.toml
-setup.cfg
 getchar/__init__.py
 getchar.egg-info/PKG-INFO
 getchar.egg-info/SOURCES.txt
