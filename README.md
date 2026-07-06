@@ -4,6 +4,12 @@ Cross-platform non-blocking stdin reading.
 
 Variant of the `readchar` module (which is blocking).
 
+## Installation
+
+```
+pip install getchar
+```
+
 ## How to use
 
 ```python
@@ -15,4 +21,4 @@ while True:
         print(keys)
 ```
 
-`getkeys()` returns a list of keys. Length = 0 if no input.
+`getkeys()` is non-blocking and returns a list of keys. An empty list is returned if there is no input.
