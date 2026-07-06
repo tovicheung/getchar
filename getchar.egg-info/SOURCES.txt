@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-getchar/__init__.py
-getchar.egg-info/PKG-INFO
-getchar.egg-info/SOURCES.txt
-getchar.egg-info/dependency_links.txt
-getchar.egg-info/top_level.txt
